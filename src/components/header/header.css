@@ -1,0 +1,35 @@
+.header {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1200px;
+  height: 70px;
+  top: 0px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.header>img {
+  width: 85px;
+  margin: 15px;
+}
+
+.header-menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 451px;
+  margin: 16px 15px 16px 0;
+}
+
+.header-menu>li {
+  padding: 10px;
+}
+
+.header-menu>li:hover {
+  color: #F3A834;
+  border-bottom: 2px solid #F3A834;
+}

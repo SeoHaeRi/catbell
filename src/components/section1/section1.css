@@ -1,0 +1,113 @@
+.section1 {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  top: 70px;
+  width: 1200px;
+  height: 770px;
+  font-weight: 400;
+}
+
+.section1 section {
+  padding-left: 56px;
+}
+
+.section1 .txt1 {
+  position: relative;
+  top: 80px;
+  height: 45px;
+  font-size: 21px;
+  line-height: 29px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.section1 .txt1 span {
+  font-family: 'Nanum Pen Script';
+  font-size: 48px;
+  line-height: 67px;
+  color: #3242D3;
+  background: linear-gradient(to top, rgba(50, 66, 211, 0.3) 40%, transparent 30%);
+}
+
+.section1 .txt2 {
+  display: flex;
+  position: relative;
+  top: 180px;
+  width: 599px;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.section1 .txt2 .group1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 186px;
+  margin-right: 93px;
+}
+
+.section1 .txt2 .group2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 186px;
+}
+
+.section1 .txt2 span {
+  font-family: 'Nanum Pen Script';
+  font-size: 36px;
+  line-height: 39px;
+}
+
+.section1 .txt2 .group1 .pen1 {
+  color: #5EB134;
+  background: linear-gradient(to top, rgba(94, 178, 52, 0.302) 40%, transparent 30%);
+}
+
+.section1 .txt2 .group1 .pen2 {
+  color: #E73223;
+  background: linear-gradient(to top, rgba(231, 50, 35, 0.3) 40%, transparent 30%);
+}
+
+.section1 .txt2 .group2 .pen3 {
+  color: #FD912E;
+  background: linear-gradient(to top, rgba(253, 145, 46, 0.3) 40%, transparent 30%);
+}
+
+.section1 .txt2 .group2 .pen4 {
+  color: #E571D3;
+  background: linear-gradient(to top, rgba(229, 113, 211, 0.3) 40%, transparent 30%);
+}
+
+.section1 .txt3 {
+  position: relative;
+  top: 220px;
+  width: 613px;
+  height: 268px;
+  float: right;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 33px;
+}
+
+.section1 .txt3 span {
+  font-family: 'Nanum Pen Script';
+  font-weight: 400;
+  font-size: 75px;
+  line-height: 82px;
+  color: #0E4BD0;
+}
+
+.section1 .txt3 div {
+  position: relative;
+  top: 172px;
+  float: right;
+  padding-right: 120px;
+}
+
+.section1 .txt3 img {
+  position: relative;
+  bottom: 80px;
+  float: right;
+  padding-right: 15px;
+}
